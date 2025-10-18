@@ -13,8 +13,5 @@ The goal of this project is to analyze workforce composition, employee trends, a
 - **Power BI**: data visualization and business insights  
 ---
 
-## 📊 Dashboard Preview
-![Workforce Analytics Dashboard](visuals/dashboard_preview.png)
-
 
 *Dataset was entirely self-created for demonstration purposes.*
