@@ -14,7 +14,7 @@ The goal of this project is to analyze workforce composition, employee trends, a
 ---
 #### Dashboard Preview
 
-- [Workforce Analytics Dashboard](https://drive.google.com/uc?export=view&id=1sZo9ZvgUHtMn-fSEtmIonf0grH2qUOUP)
+- [Workforce Insights Dashboard](https://drive.google.com/uc?export=view&id=1sZo9ZvgUHtMn-fSEtmIonf0grH2qUOUP)
 ---
 
 *This dataset was entirely self-created for demonstration and analytical purposes.*
