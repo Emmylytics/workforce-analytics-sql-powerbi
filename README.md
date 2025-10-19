@@ -12,7 +12,7 @@ The goal of this project is to analyze workforce composition, employee trends, a
 - **MySQL**: database design, data generation & analytics  
 - **Power BI**: data visualization and business insights  
 ---
-- [Workforce Analytics Dashboard](Workforce_dashboard_view.png)
+- [Workforce Analytics Dashboard](https://raw.githubusercontent.com/Emmylytics/workforce-analytics-sql-powerbi/main/Workforce_dashboard_view.png)
 
 
 *Dataset was entirely self-created for demonstration purposes.*
